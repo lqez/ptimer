@@ -10,7 +10,7 @@ Yet another precision timer for Python
 BENCHMARK
 =========
 
-[Benchmark of sleep vs ptimer](https://docs.google.com/spreadsheet/ccc?key=0Anva4clMXVtVdFF6M0hvdFZDalFyVmEtMGtMdDVSQ1E#gid=0)
+[Benchmark of sleep vs ptimer](https://docs.google.com/spreadsheet/ccc?key=0Anva4clMXVtVdFF6M0hvdFZDalFyVmEtMGtMdDVSQ1E&usp=sharing)
 
 
 
