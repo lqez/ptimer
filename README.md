@@ -4,7 +4,7 @@ ptimer
 Yet another precision timer for Python
 
 - Support better precision than just using sleep() in a loop.
-- Will be fired at almost **exact** timing. (e.g: not 12:00:00.358, exact 12:00:00.000)
+- Will be fired at almost **exact** timing. (e.g: not 12:00:00.35, exact 12:00:00.00)
 
 
 BENCHMARK
