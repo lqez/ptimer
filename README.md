@@ -47,3 +47,11 @@ USAGE
     hello 2013-04-09 02:42:05.001562
     hello 2013-04-09 02:42:06.002660
     
+
+DOCUMENT
+--------
+
+```
+# Run <fn> <iteration> times every <interval> seconds.
+def repeat(fn, iteration=-1, interval=1.0, run=False)
+```
