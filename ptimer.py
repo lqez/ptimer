@@ -9,7 +9,7 @@ def repeat(fn, iteration=-1, interval=1.0, run=False):
 
     :param fn: Function to be called periodically.
     :type fn: FunctionType
-    :param iteration: How many times to be run? -1 means runs infinetely.
+    :param iteration: How many times to be run? -1 means runs infinitely
     :type iteration: IntType
     :param interval: Interval between runs. (in seconds)
     :type interval: FloatType
