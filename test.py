@@ -3,7 +3,7 @@ from datetime import datetime
 
 
 def foo():
-    print "hello", datetime.now()
+    print("hello", datetime.now())
 
 
 if __name__ == "__main__":
