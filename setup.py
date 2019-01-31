@@ -12,12 +12,13 @@ classifiers = [
     'Intended Audience :: System Administrators',
     'Programming Language :: Python',
     'Programming Language :: Python :: 2.7',
+    'Programming Language :: Python :: 3.6',
     'License :: OSI Approved :: MIT License',
 ]
 
 setup(
     name='ptimer',
-    version='0.1.0',
+    version='0.1.1',
     py_modules=['ptimer'],
     author='Park, Hyunwoo',
     author_email='ez.amiryo' '@' 'gmail.com',
